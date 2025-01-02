@@ -60,7 +60,7 @@ Built using modern web technologies like **React.js**, **PHP**, **MySQL**, and *
 ## Installation Guide 🛠️
 
 ### 1. Clone the Repository 🧑‍💻
-git clone https://github.com/your-username/malcolm-lismore-photography-system.git
+git clone https://github.com/RavirajSarangan/malcolm-lismore-photography-system.git
  
 ### 2. Install XAMPP 🚀
 Download and install XAMPP from here.
